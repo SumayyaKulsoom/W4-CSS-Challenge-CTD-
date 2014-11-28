@@ -2,13 +2,23 @@
 /* Sample CSS Document */
 
 #eagleLogo {
-
+           float:right;
 }
-
+.borderImage{
+     border: 1px solid #069;
+}
 h1 {
-     color:blue;
+     font-family: Verdana, Geneva, sans-serif;
+     font-size:24px;
+     font-weight:bold;
+     color: #09F;
+     text-decoration: underline overline;
 }
 h2{
-     color: red;
-     font-weight: bold;
+     font-family:"Trebuchet MS", Arial;
+     font-size: 18px;
+     color: #FFF;
+     text-decoration: underline;
+     background color: #09F
+     width: 450px
 }
