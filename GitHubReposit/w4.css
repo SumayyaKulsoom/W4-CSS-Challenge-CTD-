@@ -22,3 +22,13 @@ h2{
      background color: #09F
      width: 450px
 }
+#eslrMenu{
+      border: 1px dotted #900;
+      width: 400px;
+}
+.eslrTitle{
+      font-family: "Arial Black";
+      text-transform: uppercase;
+      color: #900;
+      font-size: 10px;
+}
