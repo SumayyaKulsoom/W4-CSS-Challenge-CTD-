@@ -2,7 +2,7 @@
 /* Sample CSS Document */
 
 #eagleLogo {
-
+	float: right;
 }
 
 h1 {
@@ -12,4 +12,9 @@ h1 {
 h2
 {
 	color: red;
+}
+
+class
+{
+	elsrTitle color = green;
 }
